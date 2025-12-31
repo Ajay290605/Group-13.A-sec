@@ -1,0 +1,29 @@
+.role-badge {
+  display: inline-block;
+  padding: 4px 12px;
+  border-radius: 12px;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.role-owner {
+  background-color: #9c27b0;
+  color: white;
+}
+
+.role-manager {
+  background-color: #2196F3;
+  color: white;
+}
+
+.role-farmer {
+  background-color: #4CAF50;
+  color: white;
+}
+
+
+
+
+
+
+
